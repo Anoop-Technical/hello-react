@@ -1,0 +1,19 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "This is a hello react by Anoop Pandey",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello-react"
+  },
+  "keywords": [],
+  "author": "Anoop Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
